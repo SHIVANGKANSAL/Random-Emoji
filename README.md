@@ -1,4 +1,4 @@
-# 😀 Rando Emoji Printer
+# 😀 Random Emoji Printer
 
 Small tool to return random emojis.\
 Written in Emojicode.
@@ -21,4 +21,4 @@ $ ./compile.sh
 ```
 3. Binary will be built into `dist/`
 
-Made By : Shivang Kansal
+### Made By : Shivang Kansal
